@@ -1,1 +1,1 @@
-Hallo sob, perkenalkan nama saya Muhammad Reza Ichsani, biasa dipanggil Reza. Saya memiliki beberapa blog, diantaranya [rezaichsani.github.io](https://rezaichsani.github.io) yang dibuat dengan Framwork Hugo, dan juga [rezaichsani.com](https://rezaichsani.com) yang dibuat dengan WordPress.
+Hallo sob, perkenalkan nama saya Muhammad Reza Ichsani, biasa dipanggil Reza. 
